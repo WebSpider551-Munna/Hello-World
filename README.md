@@ -2,6 +2,9 @@
 Git task to create Hello-World repo and clone it to the local and perfrom the operations on it mentioned in the task
 
 ## About Me
-Hi, my name is **Purushotham**.  
-I have completed **M.Tech in Computer Science and Engineering** 
-and I’m passionate about **AI, Machine Learning, and Prompt Engineering**.  
+ Good afternoon!
+My name is Purushotham, and I’m from Bhadrachalam, Telangana.
+I have completed my graduation in Computer Science and Engineering from Adams Engineering College, Palwancha, located in Bhadradri Kothagudem district.
+I am passionate about learning and keeping up with emerging technologies. In my free time, I enjoy reading tech blogs and research articles related to Artificial Intelligence, Machine Learning, and Prompt Engineering.
+My career goal is to become a Data Scientist, Machine Learning Engineer, or Prompt Engineer, where I can apply my analytical and technical skills to solve real-world problems and contribute meaningfully to the organization’s growth.
+Thank you for the opportunity to introduce myself. 
